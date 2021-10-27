@@ -38,7 +38,6 @@
 ### Experiência de trabalho
 In the overview below you will find my most recent work experience:
 
-[
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.cn/dms/image/C560BAQHatcxOkyfvjA/company-logo_200_200/0/1570206474480?e=2159024400&v=beta&t=VzK3e7eegFDCYtWtW3HoIcb3N0My6a1u-Yj4RX4Xj0o"/>](https://www.spacex.com/)
 
 **DESENVOLVEDOR DE SOFTWARE** \
