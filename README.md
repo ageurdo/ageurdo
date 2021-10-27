@@ -39,5 +39,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: AGEU RODRIGUES DE OLIVEIRA](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ageurodriguesdeoliveira)](https://www.linkedin.com/in/ageu-rodrigues-de-oliveira-31ba8829/)
+[![Linkedin: AGEU RODRIGUES DE OLIVEIRA](https://img.shields.io/badge/-ageurodriguesdeoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ageurodriguesdeoliveira)](https://www.linkedin.com/in/ageu-rodrigues-de-oliveira-31ba8829/)
 [![Gmail Badge](https://img.shields.io/badge/-ageurdo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ageurdo@gmail.com)](ageurdo@gmail.com)
