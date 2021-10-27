@@ -1,5 +1,5 @@
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **SISTEMAS DE INFORMAÇÃO** no <a href="https://www.udc.edu.br/web/cursos/graduacao/sistemasdeinformacao.html">UDC</a>.
