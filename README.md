@@ -51,3 +51,6 @@ Featured Projects: [SHMS](https://intelltech.com.br/language/en/slope-health-mon
 
 [![Linkedin: AGEU RODRIGUES DE OLIVEIRA](https://img.shields.io/badge/-ageurodriguesdeoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ageurodriguesdeoliveira)](https://www.linkedin.com/in/ageu-rodrigues-de-oliveira-31ba8829/)
 [![Gmail Badge](https://img.shields.io/badge/-ageurdo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ageurdo@gmail.com)](ageurdo@gmail.com)
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ageurdo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
