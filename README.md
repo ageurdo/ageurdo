@@ -5,6 +5,7 @@
 - 🎓 &nbsp; Formado em **SISTEMAS DE INFORMAÇÃO** no <a href="https://www.udc.edu.br/web/cursos/graduacao/sistemasdeinformacao.html">UDC</a>.
 - 💼 &nbsp; Trabalhando como **DESENVOLVEDOR DE SISTEMAS** na <a href="www.intelltech.com.br">INTELLTECH</a>
 - 🌱 &nbsp; Aprendendo mais sobre **NODEJS, REACTJS, TYPESCRIPT E MONGODB**.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ageurdo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -53,4 +54,4 @@ Featured Projects: [SHMS](https://intelltech.com.br/language/en/slope-health-mon
 [![Gmail Badge](https://img.shields.io/badge/-ageurdo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ageurdo@gmail.com)](ageurdo@gmail.com)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ageurdo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
