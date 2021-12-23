@@ -42,7 +42,7 @@
 
 **DESENVOLVEDOR DE SOFTWARE** \
 [**INTELLTECH**](https://www.intelltech.com.br/) • Full-time \
-Languages & Technologies: `Javascript`, `Nodes`, `ReactJs`, `Typescript`, `C#`, `Angularjs`,\
+Languages & Technologies: `Javascript`, `Nodes`, `ReactJs`, `Typescript`, `C#`\
 Featured Projects: [SHMS](https://intelltech.com.br/language/en/slope-health-monitoring-system-en/)
 <br/>
 
