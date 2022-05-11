@@ -38,7 +38,7 @@
 
 ### Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.cn/dms/image/C560BAQHatcxOkyfvjA/company-logo_200_200/0/1570206474480?e=2159024400&v=beta&t=VzK3e7eegFDCYtWtW3HoIcb3N0My6a1u-Yj4RX4Xj0o"/>](http://intelltech.com.br/
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.cn/dms/image/C560BAQHatcxOkyfvjA/company-logo_200_200/0/1570206474480?e=2159024400&v=beta&t=VzK3e7eegFDCYtWtW3HoIcb3N0My6a1u-Yj4RX4Xj0o"/>](http://intelltech.com.br/)
 
 **DESENVOLVEDOR DE SOFTWARE** \
 [**INTELLTECH**](https://www.intelltech.com.br/) • Full-time \
