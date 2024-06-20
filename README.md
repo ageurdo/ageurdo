@@ -38,7 +38,7 @@
 
 ### Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.cn/dms/image/C560BAQHatcxOkyfvjA/company-logo_200_200/0/1570206474480?e=2159024400&v=beta&t=VzK3e7eegFDCYtWtW3HoIcb3N0My6a1u-Yj4RX4Xj0o"/>](https://www.megabit.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQGpM3EEk4n0eg/company-logo_200_200/0/1699365496068?e=2147483647&v=beta&t=aVM2yyoDrw9MJqcGlIDPbkk06aE2tSxJdI51dzI1za4"/>](https://www.megabit.com.br/)
 
 **DESENVOLVEDOR DE SOFTWARE** \
 [**MEGABIT**](https://www.megabit.com.br/) • Full-time \
