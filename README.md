@@ -3,8 +3,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **SISTEMAS DE INFORMAÇÃO** no <a href="https://www.udc.edu.br/web/cursos/graduacao/sistemasdeinformacao.html">UDC</a>.
-- 💼 &nbsp; Trabalhando como **DESENVOLVEDOR DE SISTEMAS** na <a href="www.intelltech.com.br">INTELLTECH</a>
-- 🌱 &nbsp; Aprendendo mais sobre **NODEJS, REACTJS, TYPESCRIPT E MONGODB**.
+- 💼 &nbsp; Trabalhando como **DESENVOLVEDOR DE SISTEMAS** na <a href="https://www.megabit.com.br/">MEGABIT</a>
+- 🌱 &nbsp; Aprendendo mais sobre **NODEJS, REACTJS, VUEJS, TYPESCRIPT, PHP, LARAVEL, SQL E NOSQL**.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ageurdo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -38,12 +38,11 @@
 
 ### Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.cn/dms/image/C560BAQHatcxOkyfvjA/company-logo_200_200/0/1570206474480?e=2159024400&v=beta&t=VzK3e7eegFDCYtWtW3HoIcb3N0My6a1u-Yj4RX4Xj0o"/>](http://intelltech.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.cn/dms/image/C560BAQHatcxOkyfvjA/company-logo_200_200/0/1570206474480?e=2159024400&v=beta&t=VzK3e7eegFDCYtWtW3HoIcb3N0My6a1u-Yj4RX4Xj0o"/>](https://www.megabit.com.br/)
 
 **DESENVOLVEDOR DE SOFTWARE** \
-[**INTELLTECH**](https://www.intelltech.com.br/) • Full-time \
-Languages & Technologies: `Javascript`, `Nodes`, `ReactJs`, `Typescript`, `C#`\
-Featured Projects: [SHMS](https://intelltech.com.br/language/en/slope-health-monitoring-system-en/)
+[**MEGABIT**](https://www.megabit.com.br/) • Full-time \
+Languages & Technologies: `Javascript`, `Nodejs`, `ReactJs`, `Vuejs`, `Typescript`, `C#`, `PHP`, `Laravel`\
 <br/>
 
 <br/>
